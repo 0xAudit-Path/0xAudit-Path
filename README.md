@@ -1,16 +1,22 @@
-## Hi there 👋
+### $ whoami →
 
-<!--
-**0xAudit-Path/0xAudit-Path** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0xAudit-Path**
+Security researcher in progress. Red & Blue Team. Building tools to understand systems by breaking them — and fixing them.
 
-Here are some ideas to get you started:
+![Red Team](https://img.shields.io/badge/Red_Team-cc0000?style=flat-square) ![Blue Team](https://img.shields.io/badge/Blue_Team-0066cc?style=flat-square) ![Python](https://img.shields.io/badge/Python-1a7a5e?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-b06800?style=flat-square) ![OSINT](https://img.shields.io/badge/OSINT-4a3fa8?style=flat-square) ![Linux](https://img.shields.io/badge/Linux_·_Kali-555?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### currently building
+
+| | project | what |
+|---|---|---|
+| 🔴 | `network-scanner` | port & service scanner in Python. Learning what actually happens at the socket level. |
+| 🔵 | `honeypot` | fake server that logs who knocks and what they send. |
+| 🔵 | `log-analyzer` | detecting brute force and anomalies in SSH & Apache logs. |
+| ⭐ | `framework-osint` | domain scanner with AI integration. Main project — coming soon. |
+
+---
+
+#### philosophy
+> "The best way to defend a system is to understand how it fails."
