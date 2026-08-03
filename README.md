@@ -12,9 +12,6 @@ Security researcher in progress. Red & Blue Team. Building tools to understand s
 
 | | project | what |
 |---|---|---|
-| 🔴 | `network-scanner` | port & service scanner in Python. Learning what actually happens at the socket level. |
-| 🔵 | `honeypot` | fake server that logs who knocks and what they send. |
-| 🔵 | `log-analyzer` | detecting brute force and anomalies in SSH & Apache logs. |
 | ⭐ | `framework-osint` | domain scanner with AI integration. Main project — coming soon. |
 
 ---
